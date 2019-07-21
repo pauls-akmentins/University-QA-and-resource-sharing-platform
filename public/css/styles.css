@@ -1,0 +1,222 @@
+.all-form-group {
+    margin: 7px 0px 0px 0px;
+    color: #8AAAE5;
+}
+
+.all-form-group-pages {
+    color: #8AAAE5;
+}
+
+.my-account {
+    margin: 0;
+    color: #8AAAE5;
+}
+
+.show-button-container-edit {
+    float: left;
+}
+
+.show-button-container-delete {
+    float: left;
+}
+
+.navbar-brand {
+    padding: 0;
+    margin-bottom: 5px;
+}
+
+.submit-button {
+    background:none; 
+    border:none; 
+    text-decoration: none; 
+    color: #8AAAE5;
+    text-transform: lowercase; 
+    float: right;
+    padding: 0px 0 10px 10px;
+}
+
+.submit-button-pages {
+    color: #8AAAE5;
+}
+
+.create-hr {
+    border-color: #8AAAE5;
+    margin-bottom: 0;
+}
+
+.create-hr-pages {
+    border-color: #8AAAE5;
+    margin: 0 5px 0 5px;
+}
+
+.main-container {
+    margin-top: 50px;
+}
+
+.submit-button:hover {
+    color: #2F2F31;
+    text-decoration: none;
+}
+
+.date-container {
+    float: left;
+}
+
+.date-title-style {
+    float: left; 
+    margin-right: 5px; 
+    color: #8AAAE5;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding:0 0 10px 0;
+}
+
+.date-style {
+    float: left; 
+    text-transform: lowercase;
+    color: #8AAAE5;
+    margin-bottom: 5px;
+}
+
+.button-container {
+    float: right;
+}
+
+.html-button {
+    background: none; 
+    border: none; 
+    margin-right: 2px; 
+    text-decoration: none; 
+    text-transform: lowercase;
+    padding:0 0 10px 0;
+}
+
+.html-button-back {
+    float: left;
+}
+
+.form-group-pages {
+    border-color: #8AAAE5; 
+}
+
+.html-button-left {
+    margin-right: 10px;
+}
+
+.input-container-posts {
+    padding: 0 15px 0 15px;
+}
+
+.posts-ask-question-button {
+    margin: 20px 2px 0 0;
+}
+
+.table th {
+    border-top: none;
+    margin-top: 20px;
+    border-color: #8AAAE5;
+}
+
+.table td {
+    border-color: #8AAAE5;
+}
+
+.table thead th {
+    border-color: #8AAAE5;
+}
+
+.table {
+    margin-top: 30px;
+}
+
+.navigation-bar {
+    background-color: #8AAAE5;
+}
+
+.navigation-links {
+    color: #FFFFFF;
+}
+
+.navigation-links:hover {
+    color: #2F2F31;
+    text-decoration: none;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.page-link {
+    background:none; 
+    border:none; 
+    text-decoration: none; 
+    color: #8AAAE5;
+    text-transform: lowercase; 
+}
+
+.top-button {
+    margin-top: 8px;
+}
+
+.input-group-text {
+    display: flex;
+    align-items: center;
+    padding: 0 0 0 5px;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #495057;
+    text-align: center;
+    background-color: #e9ecef;
+    border: 1px solid #ced4da;
+}
+
+.slug-input {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    margin-left: 5px;
+}
+
+.questions-hr {
+    margin-top: 25px;
+}
+
+.register-dropdown {
+    background-color: #8AAAE5;
+}
+
+.register-link {
+    margin-right: 15px;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.categories-button {
+    background:none; 
+    border:none; 
+    text-decoration: none; 
+    color: #8AAAE5;
+    text-transform: lowercase; 
+    background: none; 
+    border: none; 
+    text-decoration: none; 
+    font-size: 20px;
+}
+
+.categories-button:hover {
+    color: #2F2F31;
+    text-decoration: none;
+}
+
+.date-title-style-categories {
+    float: left;
+    margin-right: 5px;
+    color: #8AAAE5;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding: 0 0 0px 0;
+}
